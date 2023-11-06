@@ -28,4 +28,4 @@ Okay, let me show you the UI of it in some screenshots:
 
 
 
-** Currently the application is not downloadable since it is still under devolopment, however, if you are intrested send me on https://twitter.com/SWE_Mohammad and i will give the apk to.
+** Currently the application is not downloadable since it is still under devolopment, however, if you are intrested send me on https://twitter.com/SWE_Mohammad and i will give the apk to you.
